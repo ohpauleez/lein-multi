@@ -1,4 +1,4 @@
-(defproject lein-multi "1.0.1"
+(defproject org.clojars.ohpauleez/lein-multi "1.0.1"
   :description "A Leiningen plugin for running tasks against multiple dependency sets."
   :url "http://github.com/ohpauleez/lein-multi"
   :license {:name "MIT License"
